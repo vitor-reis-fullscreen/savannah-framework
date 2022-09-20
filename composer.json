@@ -1,0 +1,18 @@
+{
+    "name": "fullscreen.pt/savannah-framework",
+    "description": "Savannah framework bundle",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "FullscreenPt\\Savannah\\Bundle\\FrameworkBundle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vítor Reis",
+            "email": "vitor.reis@fullscreen.pt"
+        }
+    ],
+    "require": {}
+}
