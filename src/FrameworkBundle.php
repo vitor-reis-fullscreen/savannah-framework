@@ -3,7 +3,7 @@
 namespace FullscreenPt\Savannah\Bundle\FrameworkBundle;
 
 use Symfony\Component\HttpKernel\Bundle\AbstractBundle;
-
+use Symfony\Component\Config\Definition\Configurator\DefinitionConfigurator;
 class FrameworkBundle extends AbstractBundle
 {
     public function configure(DefinitionConfigurator $definition): void
